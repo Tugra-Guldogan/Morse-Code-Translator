@@ -1,2 +1,2 @@
-# Morse_Code_Translator
+# Morse-Code-Translator
 A morse code translator written in python.
